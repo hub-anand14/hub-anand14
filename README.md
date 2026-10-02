@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/hub-anand14">
+<!-- <a href="https://github.com/hub-anand14">
 <img src="https://komarev.com/ghpvc/?username=hub-anand14&style=flat-square&color=555555&label=PROFILE+VIEWS"/>
-</a>
+</a> -->
 
 </div>
 
