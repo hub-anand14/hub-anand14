@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.gif" width="100%" alt="Anand Yadav"/>
+<img src="./Banner.gif" width="100%" alt="Anand Yadav"/>
 
 <br/>
 
